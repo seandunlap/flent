@@ -1,0 +1,2 @@
+docker image build -t flent .
+docker container run -i --tty flent /bin/bash
